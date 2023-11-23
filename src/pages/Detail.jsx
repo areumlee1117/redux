@@ -1,5 +1,9 @@
-const Detail = () => {
-  return <div></div>;
-};
+import React from 'react'
 
-export default Detail;
+function Detail() {
+  return (
+  <div>Detail</div>
+  )
+}
+
+export default Detail
